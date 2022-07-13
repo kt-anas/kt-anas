@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammed Anas</h1>
 <h3 align="center">A passionate frontend developer from India</h3> 
-<img align="right" alt="coding" width="400" src=" https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif">
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ktmanas2020@gmail.com**

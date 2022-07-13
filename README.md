@@ -1,4 +1,4 @@
-<img align="top" alt="coding" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovMLSvycq1FHNe-Rcd2zCzY28z2KwCGYz_Q&usqp=CAU.gif">
+<img align="top" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif">
 
 <h1 align="center">Hi 👋, I'm Muhammed Anas</h1>
 <h3 align="center">A passionate frontend developer from India</h3> 

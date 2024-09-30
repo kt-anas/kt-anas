@@ -12,7 +12,7 @@
 <a href="https://dev.to/ktanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ktanas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 <a href="https://medium.com/@ktmanas2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ktmanas2020" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kt-anas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kt-anas/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/kt-anas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kt-anas/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

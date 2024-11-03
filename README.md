@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kt-anas&show_icons=true&locale=en" alt="kt-anas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kt-anas&" alt="kt-anas" /></p>
+ 
 
 
 

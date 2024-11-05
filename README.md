@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate REACT Developer from India</h3>
 <div align="center"> 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m-h-d-salih&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kt-anas&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
  
 </div>
 <div align="center">

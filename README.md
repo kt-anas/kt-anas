@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Salih</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Anas KT</h1>
 <h3 align="center">A Passionate Full Stack MERN Stack Developer from India</h3>
 <div align="center"> 
   

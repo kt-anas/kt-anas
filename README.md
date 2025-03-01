@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Muhammed Anas</h1>
-<h3 align="center">A Passionate React Developer from India</h3>
+ 
 
 <div align="center">  
   <a href="https://git.io/streak-stats">
@@ -77,7 +77,7 @@
 
 ---
 
-<h3 align="center">📬 Let's Connect</h3>
+ 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-anas-b186a6244/" target="_blank">
@@ -86,8 +86,4 @@
  
 </p>
 
----
-
-<p align="center">
-  <i>Let's build something amazing together! 🚀</i>
-</p>
+ 
